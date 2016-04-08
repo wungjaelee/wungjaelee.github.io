@@ -1,5 +1,18 @@
+header {
+	color: white;
+}
+
+h2 {
+	color: #7fffd4;
+}
+
+body {
+	background-color: orange;
+}
+
 p {
-	color: yellow;
+	color: white;
+	font-size: 125%;
 }
 
 .content {
